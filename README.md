@@ -1,1 +1,1 @@
-for Task-1: index.html is the main file 
+For Task-1: index.html is the main file 
