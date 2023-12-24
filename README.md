@@ -1,1 +1,1 @@
-# CodeSoft
+Task-1: index.html is main file
